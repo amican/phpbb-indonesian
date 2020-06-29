@@ -38,7 +38,7 @@ if (empty($lang) || !is_array($lang))
 //
 
 $lang = array_merge($lang, array(
-	'ACP_VIGLINK_SETTINGS'			=> 'VigLink settings',
+	'ACP_VIGLINK_SETTINGS'			=> 'Pengaturan VigLink',
 	'ACP_VIGLINK_SETTINGS_EXPLAIN'	=> 'VigLink is a third-party service that discretely monetizes links posted by users of your forum without any change to the user experience. When users click on your outbound links to products or services and buy something, the merchants pay VigLink a commission, of which a share is donated to the phpBB project. By choosing to enable VigLink and donating proceeds to the phpBB project, you are supporting our open source organization and ensuring our continued financial security.',
 	'ACP_VIGLINK_SETTINGS_CHANGE'	=> 'You can change these settings at any time in the “<a href="%1$s">VigLink settings</a>” panel.',
 	'ACP_VIGLINK_SUPPORT_EXPLAIN'	=> 'You will no longer be redirected to this page once you submit your preferred options below, by clicking the Submit button.',
