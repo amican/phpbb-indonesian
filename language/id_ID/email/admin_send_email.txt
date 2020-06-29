@@ -1,9 +1,9 @@
 
-The following is an email sent to you by an administrator of "{SITENAME}". If this message is spam, contains abusive or other comments you find offensive please contact the webmaster of the board at the following address:
+Berikut adalah surel yang dikirim untuk kamu oleh "{SITENAME}". jika pesan didalamnya adalam spam, contains abusive or other comments you find offensive please contact the webmaster of the board at the following address:
 
 {CONTACT_EMAIL}
 
-Include this full email (particularly the headers). 
+Include this full email (particularly the headers).
 
 Message sent to you follows:
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
